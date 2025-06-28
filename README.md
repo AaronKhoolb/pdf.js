@@ -26,7 +26,7 @@ Functionality remains fully compatible with upstream PDF.js; the only enhancemen
 
 - **Direct Demo**:
 
-  - [PDF link](https://aaronkhoolb.github.io/pdf.js/web/viewer.html?file=https://drive.khoolb.com/Misc/pdfjs.pdf)
+  - [PDF link](https://aaronkhoolb.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fdrive.khoolb.com%2Fp%2F%25E5%2585%25AC%25E5%25BC%2580%25E9%25A1%25B5%25E9%259D%25A2%2FMisc%2Fpdfjs.pdf%3Fsign%3DCF6D10OdBqD2ln-XgliNnRw0ARoHR6IakyepIYD6-cA%3D%3A0)
   - [Alist demo](https://drive.khoolb.com/Misc/pdfjs.pdf)
 
 ## 🚀 Installation & Usage
