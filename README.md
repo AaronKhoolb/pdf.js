@@ -91,7 +91,9 @@ This project is based on [Mozilla PDF.js](https://github.com/mozilla/pdf.js), li
 
 ## 👥 Contributors
 
-[<img src="https://khoolb.com/images/mobile_profile.jpg" alt="Khoo lb" style="zoom:10%;" />](https://khoolb.com/)
+[<img src="https://khoolb.com/images/favicon_180x180.jpg" alt="Khoo lb" style="zoom:40%;" />](https://khoolb.com/)
 [<img src="https://www.dkly.top/image/e6d8e7b607d3ac82a4894570997d152a.png" alt="Davon" style="zoom:40%;" />](https://www.dkly.top/)
+
+
 
 *Thank you to all who contributed!*
